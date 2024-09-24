@@ -1,0 +1,9 @@
+export { MainBtn } from './btn';
+export { HeroOrbit } from './hero-orbit';
+export { SectionHead } from './section-head';
+export { Project } from './project';
+export { GrainBg } from './grain-bg';
+export { TestimonialItem } from './testimonial-item';
+export { AboutTitle } from './about-title';
+export { TechIcon } from './techIcon';
+export { ToolboxItems } from './toolbox-items';
